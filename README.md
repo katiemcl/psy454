@@ -7,7 +7,9 @@ This research explores modeling attention bias and risk avoidance in simplified 
 
 ## Code Organization
 
-Most code (simulations, graphs, etc.) are found in `PSY454_cvar.ipynb`. With the exception of several `2D_optimal_policy_nCVaR...npz` files, everything in `plotting`, `shared`, and `simulation_results are copied from Chris Gagne's repository.
+Most code (simulations, graphs, etc.) are found in `PSY454_cvar.ipynb`. 
+
+With the exception of several `2D_optimal_policy_nCVaR...npz` files, everything in `plotting`, `shared`, and `simulation_results` are the same as those in Chris Gagne's repository.
 
 
 ## Credits
